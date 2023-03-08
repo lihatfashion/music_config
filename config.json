@@ -1,6 +1,5 @@
  {
   "status": "development",
-  "baseUrl" :"https://api.musicfm.xyz/global/v2/",
   "gendre": [
     {
       "url":
