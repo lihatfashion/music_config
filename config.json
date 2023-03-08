@@ -1,102 +1,104 @@
  {
+  "status": "development",
+  "baseUrl" :"https://api.musicfm.xyz/global/v2/",
   "gendre": [
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-2&query=0",
+          "playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-2&query=0",
       "name": "Lounge"
     },
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-3&query=0",
+          "playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-3&query=0",
       "name": "Rock"
     },
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-4&query=0",
+          "playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-4&query=0",
       "name": "Electro"
     },
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-5&query=0",
+          "playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-5&query=0",
       "name": "HipHop"
     },
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-6&query=0",
+          "playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-6&query=0",
       "name": "Folk"
     },
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-7&query=0",
+          "playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-7&query=0",
       "name": "Jazz"
     },
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-8&query=0",
+          "playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-8&query=0",
       "name": "Classical"
     },
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-9&query=0",
+          "playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-9&query=0",
       "name": "Pop"
     },
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-10&query=0",
+          "playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-10&query=0",
       "name": "Indie"
     },
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-11&query=0",
+          "playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-11&query=0",
       "name": "Country"
     },
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-12&query=0",
+          "playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-12&query=0",
       "name": "Relaxation"
     },
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-13&query=0",
+          "playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-13&query=0",
       "name": "Metal"
     },
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-14&query=0",
+          "playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-14&query=0",
       "name": "Piano"
     },
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-14&query=0",
+          "playlists?random=true&page_count=20&page_no=0&song_list_id=jamendo-14&query=0",
       "name": "Happy"
     }
   ],
   "search":
-      "https://api.musicfm.xyz/global/v2/mp3/search?query=BTS&page_count=20&page_no=0&query=0",
+      "mp3/search?query=BTS&page_count=20&page_no=0&query=0",
   "discovery": [
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/top_artists?lang=*&page_count=6&page_no=0&query=0",
+          "top_artists?lang=*&page_count=6&page_no=0&query=0",
       "name": "Headers"
     },
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/rank_playlists?channel_lang=*&page_count=20&page_no=0&query=0",
+          "rank_playlists?channel_lang=*&page_count=20&page_no=0&query=0",
       "name": "Hot Rank"
     },
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/playlists?random=false&page_count=20&page_no=0&song_list_id=jamendo-500332577&query=0 ",
+          "playlists?random=false&page_count=20&page_no=0&song_list_id=jamendo-500332577&query=0 ",
       "name": "Populer"
     },
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/playlists?random=false&page_count=20&page_no=0&song_list_id=jamendo-500508615&query=0",
+          "playlists?random=false&page_count=20&page_no=0&song_list_id=jamendo-500508615&query=0",
       "name": "Terbaru"
     },
     {
       "url":
-          "https://api.musicfm.xyz/global/v2/playlists?random=false&page_count=20&page_no=0&song_list_id=jamendo-500405631&query=0",
+          "playlists?random=false&page_count=20&page_no=0&song_list_id=jamendo-500405631&query=0",
       "name": "Weekly"
     }
   ],
